@@ -20,5 +20,11 @@
       "images": "https://www.cnet.com/a/img/resize/bcae6ebae333efd053a1aad485a7bb54b6c2a584/hub/2021/10/23/b4e8daa4-d3c1-4f4c-9a15-d127246205d9/macbook-pro-2021-cnet-review-15.jpg?auto=webp&fit=crop&height=1200&width=1200",
       "id": 4
     }
+  ],
+  "posts": [
+    {
+      "title": "this is just a title",
+      "name": "this is just a name"
+    }
   ]
 }
