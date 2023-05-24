@@ -29,20 +29,5 @@
       "category": "men"
     }
   ],
-  "cart": [
-    {
-      "title": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
-      "images": "https://m.media-amazon.com/images/I/71WyMLzV+0L._UY879_.jpg",
-      "id": 1,
-      "price": "1000",
-      "category": "men"
-    },
-    {
-      "title": "kids t-shirt made with 100% cotton",
-      "images": "https://m.media-amazon.com/images/I/61d6s21skeL._UY879_.jpg",
-      "id": 2,
-      "price": "400",
-      "category": "kids"
-    }
-  ]
+  "cart": []
 }
