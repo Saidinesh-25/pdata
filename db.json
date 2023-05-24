@@ -29,5 +29,16 @@
       "category": "men"
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "title": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+      "images": "https://m.media-amazon.com/images/I/71WyMLzV+0L._UY879_.jpg",
+      "id": 4,
+      "price": "1700",
+      "category": "men",
+      "size": "s",
+      "colour": "black",
+      "quantity": 1
+    }
+  ]
 }
