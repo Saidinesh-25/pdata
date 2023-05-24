@@ -1,30 +1,48 @@
 {
   "products": [
     {
-      "title": "Google Slate 12.3-Inch 2 in 1 Laptop Intel Core m3, 8GB RAM, 64GB, Aspect Ratio 3:2",
-      "images": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
-      "id": 1
+      "title": "Uptownie Lite Women's Shirt Maxi Dress",
+      "images": "https://m.media-amazon.com/images/I/51IXexMKqqL._UX679_.jpg",
+      "id": 1,
+      "price": "1000",
+      "category": "women"
     },
     {
-      "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
-      "images": "https://m.media-amazon.com/images/I/7199N-Uz2AL._SL1500_.jpg",
-      "id": 2
+      "title": "Smocking Sleeves Dress",
+      "images": "https://m.media-amazon.com/images/I/51UiHrhzGUL._UX679_.jpg",
+      "id": 2,
+      "price": "2500",
+      "category": "women"
     },
     {
-      "title": "Quick Charger For Google Pixel 2 XL,3,3a,3a XL,3XL,4,4 XL,4 XL,4a,4a 5G,5,XL Charger Original Like Charger Type-C Qualcomm QC 3.1 Quick Charge Adaptive Fast Charging, Rapid, Dash, VOOC, AFC Charger(3.1 Amp,OP2, WHITE)",
-      "images": "https://images-na.ssl-images-amazon.com/images/I/31nj8q6QKAL.jpg",
-      "id": 3
+      "title": "TURMS Men's Cotton Linen Mandarin Collar Shirt ",
+      "images": "https://m.media-amazon.com/images/I/61qr6hH0kWL._UY879_.jpg",
+      "id": 3,
+      "price": "800",
+      "category": "men"
     },
     {
-      "title": "macboook pro",
-      "images": "https://www.cnet.com/a/img/resize/bcae6ebae333efd053a1aad485a7bb54b6c2a584/hub/2021/10/23/b4e8daa4-d3c1-4f4c-9a15-d127246205d9/macbook-pro-2021-cnet-review-15.jpg?auto=webp&fit=crop&height=1200&width=1200",
-      "id": 4
+      "title": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+      "images": "https://m.media-amazon.com/images/I/71WyMLzV+0L._UY879_.jpg",
+      "id": 4,
+      "price": "1700",
+      "category": "men"
     }
   ],
-  "posts": [
+  "cart": [
     {
-      "title": "this is just a title",
-      "name": "this is just a name"
+      "title": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+      "images": "https://m.media-amazon.com/images/I/71WyMLzV+0L._UY879_.jpg",
+      "id": 1,
+      "price": "1000",
+      "category": "men"
+    },
+    {
+      "title": "kids t-shirt made with 100% cotton",
+      "images": "https://m.media-amazon.com/images/I/61d6s21skeL._UY879_.jpg",
+      "id": 2,
+      "price": "400",
+      "category": "kids"
     }
   ]
 }
