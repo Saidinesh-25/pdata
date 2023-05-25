@@ -29,16 +29,5 @@
       "category": "men"
     }
   ],
-  "cart": [
-    {
-      "title": "Smocking Sleeves Dress",
-      "images": "https://m.media-amazon.com/images/I/51UiHrhzGUL._UX679_.jpg",
-      "id": 1,
-      "price": "2500",
-      "category": "women",
-      "colour": "Blue",
-      "size": "S",
-      "count": 1
-    }
-  ]
+  "cart": []
 }
