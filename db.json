@@ -37,7 +37,8 @@
       "price": "2500",
       "category": "women",
       "colour": "Blue",
-      "size": "S"
+      "size": "S",
+      "count": 1
     }
   ]
 }
