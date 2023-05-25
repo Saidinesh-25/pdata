@@ -5,28 +5,32 @@
       "images": "https://m.media-amazon.com/images/I/51IXexMKqqL._UX679_.jpg",
       "id": 1,
       "price": "1000",
-      "category": "women"
+      "category": "women",
+      "count": 1
     },
     {
       "title": "Smocking Sleeves Dress",
       "images": "https://m.media-amazon.com/images/I/51UiHrhzGUL._UX679_.jpg",
       "id": 2,
       "price": "2500",
-      "category": "women"
+      "category": "women",
+      "count": 1
     },
     {
       "title": "TURMS Men's Cotton Linen Mandarin Collar Shirt ",
       "images": "https://m.media-amazon.com/images/I/61qr6hH0kWL._UY879_.jpg",
       "id": 3,
       "price": "800",
-      "category": "men"
+      "category": "men",
+      "count": 1
     },
     {
       "title": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
       "images": "https://m.media-amazon.com/images/I/71WyMLzV+0L._UY879_.jpg",
       "id": 4,
       "price": "1700",
-      "category": "men"
+      "category": "men",
+      "count": 1
     }
   ],
   "cart": []
