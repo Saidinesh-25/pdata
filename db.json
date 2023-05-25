@@ -33,5 +33,27 @@
       "count": 1
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "title": "Smocking Sleeves Dress",
+      "images": "https://m.media-amazon.com/images/I/51UiHrhzGUL._UX679_.jpg",
+      "id": 2,
+      "price": "2500",
+      "category": "women",
+      "count": 1,
+      "colour": "Blue",
+      "size": "S"
+    },
+    {
+      "title": "Uptownie Lite Women's Shirt Maxi Dress",
+      "images": "https://m.media-amazon.com/images/I/51IXexMKqqL._UX679_.jpg",
+      "id": 1,
+      "price": "1000",
+      "category": "women",
+      "count": 1,
+      "colour": "Gray",
+      "size": "M"
+    }
+  ],
+  "orders": []
 }
